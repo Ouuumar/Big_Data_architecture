@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/drone-project_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerDrone$$anonfun$test$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerDrone$$anonfun$test$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport$Identity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport$Identity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerToCSV$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerToCSV$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerDrone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ProducerDrone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerDrone$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ProducerDrone$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport$Drone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport$Drone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerToCSV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerToCSV.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProducerDrone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ProducerDrone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport$Identity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport$Identity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerToCSV$$anonfun$test$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerToCSV$$anonfun$test$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerDrone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerDrone$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConsumerDrone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/ConsumerDrone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DroneReport$Drone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/omar/Bureau/scala-examples/scala-uav-root/target/scala-2.11/classes/DroneReport$Drone.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
